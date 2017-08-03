@@ -46,3 +46,6 @@ b) A player may submit an amendment to change their own title. This amendment do
 >
 > c) The total sum of points may not increase or decrease as a result of this amendment.
 
+
+#### 107: Punish the Unpopular
+> a) When voting on an amendment is complete, all of those who comprise the minority vote (either for or against) receive -2 points.
