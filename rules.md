@@ -3,6 +3,9 @@
 #### 001: Golden Rule
 > CapnMadrick is the only player who can win this game. This rule cannot be amended without the approval of CapnMadrick.
 
+#### 002: Not-so-Golden Rule
+> For the purposes of winning this game, or approving a change to Rule 001: Golden Rule, all players are considered to be the player CapnMadrick.
+
 #### 101: Victory Condition
 > a) If a player has 100 or more points the game ends.
 >
